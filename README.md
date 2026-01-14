@@ -110,4 +110,4 @@ Once the application is running, you can:
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). 
 
-You can go check bakend repo here [Synaptic-AI-backend](https://github.com/CodeWithAyush2710/SynapticsAI-backend)
+You can go check backend repo here [Synaptic-AI-backend](https://github.com/CodeWithAyush2710/SynapticsAI-backend)
